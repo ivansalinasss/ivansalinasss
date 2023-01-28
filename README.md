@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Salinas
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript and React.js
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me: contactoivansalinasss@gmail.com
 
 <!---
