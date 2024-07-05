@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan Salinas
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Microservices and Java Spring Framework
 - 📫 How to reach me: contactoivansalinasss@gmail.com
 
